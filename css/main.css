@@ -1,0 +1,10 @@
+.img_size{
+  border-radius: 20px;
+}
+.txt_design{
+    font-family: sans-serif;
+    font-weight: 700;
+}
+.bg{
+    background-image: url(./../img/home.jpg);
+}
